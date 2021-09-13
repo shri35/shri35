@@ -11,4 +11,4 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/shri_35?style=social)](https://twitter.com/shri_35)
 ![GitHub followers](https://img.shields.io/github/followers/shri35?label=Follow%20me&style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/shrikant_gosavi?label=shrikant_gosavi&style=social)
-## Thanks for visiting my profile.
+## Thanks for visiting my profile 😄.
