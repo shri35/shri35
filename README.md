@@ -1,2 +1,5 @@
-# Hello-GitHub
-# hii shri here, I am new to the github and here to learn and explore new things 
+# Hello, Shrikant here 🙋🏻‍♂️.
+* Future computer engineer 🧑🏻‍💻.
+* Learning Web devlopment
+* 
+* Thanks for visiting my profile 😊.
